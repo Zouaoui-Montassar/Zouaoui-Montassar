@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Im Zouaoui Montassar, A software developer based in Tunisia.</p>
+<p align="left">Im Zouaoui Montassar, A software developer based in Tunisia, with a strong interest in artificial intelligence and machine learning</p>
 
 ###
 
